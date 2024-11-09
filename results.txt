@@ -1,8 +1,0 @@
-hello 
-hello 
-hello 
-<<<<<<< HEAD
-modify file on git 
-=======
-modify file on github
->>>>>>> e08f908cade792d41563c7265b2f0d1d9bb3bc8a
